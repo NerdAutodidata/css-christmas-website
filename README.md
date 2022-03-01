@@ -12,13 +12,13 @@ https://cdnjs.com/libraries/font-awesome
 google fonts:
 https://fonts.google.com/specimen/Poppins
 
-As principais características deste site são:
-✅ seção de categoria responsivo usando grid.
-✅ responsivo sobre a seção usando flexbox.
-✅ seção de loja responsivo usando grid.
-✅ seção de banner responsivo.
-✅ seção de galeria de imagens responsivo usando grid.
-✅ seção responsivo do formulário de contato / mensagem.
-✅ seção de blogs responsivos usando grid.
-✅ seção de informações de serviço responsivo usando grid.
-✅ seção de rodapé responsiva usando grid.
+As principais características deste site são:<br>
+✅ seção de categoria responsivo usando grid.<br>
+✅ responsivo sobre a seção usando flexbox.<br>
+✅ seção de loja responsivo usando grid.<br>
+✅ seção de banner responsivo.<br>
+✅ seção de galeria de imagens responsivo usando grid.<br>
+✅ seção responsivo do formulário de contato / mensagem.<br>
+✅ seção de blogs responsivos usando grid.<br>
+✅ seção de informações de serviço responsivo usando grid.<br>
+✅ seção de rodapé responsiva usando grid.<br>
